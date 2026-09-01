@@ -7,3 +7,7 @@ print(f"Welcome to the course, {your_name}")
 import sys
 
 print(sys.version)
+
+print(
+    "I am beginning to build reproducible computational workflows."
+)
